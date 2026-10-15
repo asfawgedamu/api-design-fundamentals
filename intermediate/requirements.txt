@@ -1,0 +1,11 @@
+# requirements.txt — Level 2 Pinned Dependencies
+# This file lists the exact versions of dependencies for the Level 2 FastAPI project.
+# To install these dependencies, run:
+# pip install -r requirements.txt
+# Note: These versions are pinned to ensure compatibility and stability of the project.
+
+
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+sqlalchemy==2.0.36
+pydantic==2.10.3

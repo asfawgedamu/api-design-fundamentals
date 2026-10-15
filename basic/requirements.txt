@@ -1,0 +1,25 @@
+# These are the required packages for the basic version of the project.
+# You can install them using pip:   
+# pip install -r requirements.txt
+
+# FastAPI is a modern, fast (high-performance) web framework for building APIs with Python # 3.6+ based on standard Python type hints.
+# It is designed to be easy to use and to provide high performance, making it a great choice for building web applications and APIs.
+# FastAPI is built on top of Starlette for the web parts and Pydantic for the data parts, which allows it to provide automatic validation, serialization, and documentation generation.
+# FastAPI is also designed to be easy to learn and use, with a simple and intuitive API that allows developers to quickly build and deploy web applications and APIs.
+
+fastapi==0.115.6
+
+# Uvicorn is a lightning-fast ASGI server implementation, using uvloop and httptools.
+# It is designed to be used with FastAPI and other ASGI frameworks to serve web applications efficiently.
+# ASGI (Asynchronous Server Gateway Interface) is a specification for Python web servers and applications to communicate with each other asynchronously, allowing for better performance and scalability.
+# Uvicorn is built on top of the uvloop event loop, which provides high performance and low latency for handling concurrent connections.
+# Uvicorn provides support for HTTP/1.1, HTTP/2, and WebSockets, making it a versatile choice for serving modern web applications.
+
+uvicorn[standard]==0.32.1 
+
+# Pydantic is a data validation and settings management library using Python type annotations.
+# It allows you to define data models with type annotations and provides powerful validation and parsing capabilities.
+# Pydantic is commonly used in FastAPI to define request and response models, ensuring that the data conforms to the expected structure and types.
+
+
+pydantic==2.11.5

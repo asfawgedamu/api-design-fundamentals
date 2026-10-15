@@ -6,7 +6,7 @@ Using a real-world **restaurant analogy** (Customer → Client, Waiter → Endpo
 
 ---
 
-## 🚀 Progressive Learning Path
+##  Progressive Learning Path
 
 This project is divided into three distinct evolutionary levels[cite: 5]. Each sub-folder contains a complete standalone application and its own detailed documentation[cite: 5, 13, 16, 25]:
 
@@ -18,7 +18,7 @@ This project is divided into three distinct evolutionary levels[cite: 5]. Each s
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 * **Language:** Python 3.11+[cite: 5, 9]
 * **Framework:** FastAPI[cite: 5]
@@ -30,7 +30,7 @@ This project is divided into three distinct evolutionary levels[cite: 5]. Each s
 
 ---
 
-## ⚙️ Quick Start & Installation
+##  Quick Start & Installation
 
 ### 1. Clone the Repository
 ```bash
